@@ -37,8 +37,8 @@
 <br />
 
 <a href="https://github.com/ZainAliSiddiqui">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ZainAliSiddiqui&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZainAliSiddiqui&theme=buefy&layout=compact" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ZainAliSiddiqui&theme=buefy&show_icons=true" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZainAliSiddiqui&theme=buefy&layout=compact" />
 </a>
 
 <br/>
